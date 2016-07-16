@@ -1,0 +1,9 @@
+.label{
+    color:inherit;
+    font-size: inherit;
+    font-weight:inherit;
+    line-height: inherit;
+    white-space: inherit;
+    padding: 0;
+}
+.header-language-background p{ margin-bottom: 0; }
